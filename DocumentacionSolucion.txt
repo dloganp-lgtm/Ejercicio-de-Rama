@@ -1,0 +1,6 @@
+
+* `git checkout main`
+* `git checkout -b bugfix`
+* `git add .`
+* `git commit -m "Agrega nuevo archivo en bugfix"`
+* `git push -u origin bugfix`
