@@ -1,0 +1,5 @@
+
+* `git checkout -b hotfix`
+* `git add .`
+* `git commit -m "Agrega nuevo archivo en hotfix"`
+* `git push -u origin hotfix`
